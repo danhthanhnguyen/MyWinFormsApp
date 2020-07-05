@@ -1,0 +1,10 @@
+F:\C#\WinFormsApp1\WinFormsApp1\bin\Debug\WinFormsApp1.exe.config
+F:\C#\WinFormsApp1\WinFormsApp1\bin\Debug\WinFormsApp1.exe
+F:\C#\WinFormsApp1\WinFormsApp1\bin\Debug\WinFormsApp1.pdb
+F:\C#\WinFormsApp1\WinFormsApp1\obj\Debug\WinFormsApp1.csprojAssemblyReference.cache
+F:\C#\WinFormsApp1\WinFormsApp1\obj\Debug\WinFormsApp1.Form1.resources
+F:\C#\WinFormsApp1\WinFormsApp1\obj\Debug\WinFormsApp1.Properties.Resources.resources
+F:\C#\WinFormsApp1\WinFormsApp1\obj\Debug\WinFormsApp1.csproj.GenerateResource.cache
+F:\C#\WinFormsApp1\WinFormsApp1\obj\Debug\WinFormsApp1.csproj.CoreCompileInputs.cache
+F:\C#\WinFormsApp1\WinFormsApp1\obj\Debug\WinFormsApp1.exe
+F:\C#\WinFormsApp1\WinFormsApp1\obj\Debug\WinFormsApp1.pdb
