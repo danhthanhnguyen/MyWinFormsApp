@@ -8,3 +8,13 @@ F:\C#\WinFormsApp1\WinFormsApp1\obj\Debug\WinFormsApp1.csproj.GenerateResource.c
 F:\C#\WinFormsApp1\WinFormsApp1\obj\Debug\WinFormsApp1.csproj.CoreCompileInputs.cache
 F:\C#\WinFormsApp1\WinFormsApp1\obj\Debug\WinFormsApp1.exe
 F:\C#\WinFormsApp1\WinFormsApp1\obj\Debug\WinFormsApp1.pdb
+C:\Users\Nguyen Danh Thanh\Desktop\MyWinFormsApp\WinFormsApp1\bin\Debug\WinFormsApp1.exe.config
+C:\Users\Nguyen Danh Thanh\Desktop\MyWinFormsApp\WinFormsApp1\bin\Debug\WinFormsApp1.exe
+C:\Users\Nguyen Danh Thanh\Desktop\MyWinFormsApp\WinFormsApp1\bin\Debug\WinFormsApp1.pdb
+C:\Users\Nguyen Danh Thanh\Desktop\MyWinFormsApp\WinFormsApp1\obj\Debug\WinFormsApp1.csprojAssemblyReference.cache
+C:\Users\Nguyen Danh Thanh\Desktop\MyWinFormsApp\WinFormsApp1\obj\Debug\WinFormsApp1.Form1.resources
+C:\Users\Nguyen Danh Thanh\Desktop\MyWinFormsApp\WinFormsApp1\obj\Debug\WinFormsApp1.Properties.Resources.resources
+C:\Users\Nguyen Danh Thanh\Desktop\MyWinFormsApp\WinFormsApp1\obj\Debug\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Nguyen Danh Thanh\Desktop\MyWinFormsApp\WinFormsApp1\obj\Debug\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Danh Thanh\Desktop\MyWinFormsApp\WinFormsApp1\obj\Debug\WinFormsApp1.exe
+C:\Users\Nguyen Danh Thanh\Desktop\MyWinFormsApp\WinFormsApp1\obj\Debug\WinFormsApp1.pdb

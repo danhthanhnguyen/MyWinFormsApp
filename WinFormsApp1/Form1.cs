@@ -191,5 +191,10 @@ namespace WinFormsApp1
             comboBox4.Text = "";
             textBox1.Focus();
         }
+
+        private void dataGridView1_CellContentClick_1(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
